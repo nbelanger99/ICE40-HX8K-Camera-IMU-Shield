@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name monocam_hat-rescue)(type Legacy)(uri ${KIPRJMOD}/monocam_hat-rescue.lib)(options "")(descr ""))
+)
