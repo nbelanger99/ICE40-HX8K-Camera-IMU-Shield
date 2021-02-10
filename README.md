@@ -4,5 +4,8 @@ This is an open-source shield designed for Lattice's [ICE-40 breakout board](htt
 
 As of yet; the verilog library needed to test the design has **not** been written. If a working module is developed, an [ICEStorm](https://github.com/YosysHQ/icestorm) project example will be open sourced and linked here. 
 
-<img src="media/layout.png">
-<img src="media/board.png">
+<img src="media/layout.png" width=360>
+<br>
+<img src="media/layout_3d.png" width=360>
+<br>
+<img src="media/board.png" width=360> 
